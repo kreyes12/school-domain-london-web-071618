@@ -21,4 +21,5 @@ def sort
     sorted[grade] = students.sort
     sorted
   end
+  end
 end
